@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-Numerical-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-3c54a3?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
 <h1 align="center">📈 Stock Trend Analysis</h1>
